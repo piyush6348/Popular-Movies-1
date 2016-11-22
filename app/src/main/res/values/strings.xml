@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Api Project 1A</string>
+    <string name="action_sort_by_popularity">Sort By Popularity</string>
+    <string name="action_sort_by_user_rating">Sort By User ratings</string>
+</resources>
